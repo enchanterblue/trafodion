@@ -400,7 +400,7 @@
   	<junit.version>4.10</junit.version>
   	<slf4j.version>1.4.3</slf4j.version>
   	<log4j.version>1.2.16</log4j.version>
-  	<zookeeper.version>3.4.5</zookeeper.version>
+  	<zookeeper.version>3.4.14</zookeeper.version>
    	<avro.version>1.7.3</avro.version>
    	<jython-standalone.version>2.5.3</jython-standalone.version>
  
